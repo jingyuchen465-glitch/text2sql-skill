@@ -7,7 +7,6 @@ Text-to-SQL Agent Skill 仓库，用于基于 Bear MCP 生成安全的只读 SQL
 | 路径 | 说明 |
 | --- | --- |
 | `{产品代号}-text-to-sql/` | 面向 **智能货柜业务** 的 Text-to-SQL Skill（本仓库的主要交付物）。`{产品代号}` 为占位符，请按实际产品名统一替换。 |
-| `yanque-text-to-sql/` | 原始「燕雀」教育业务的 Text-to-SQL 模板（自定义前的基础版本，保留备查）。 |
 | `skills说明文档.md` | 团队沉淀的开发规范（分层架构、REST、JPA、安全、测试、AI 集成等）。 |
 
 ## 智能货柜业务 Skill 概览
